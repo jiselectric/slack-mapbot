@@ -17,3 +17,7 @@
 
 <img width="1120" alt="slack" src="https://user-images.githubusercontent.com/35610628/120922359-a317b000-c703-11eb-9b2f-cefb0db71244.png">
 
+1. Call mapbot by command "!mapbot"
+2. After mapbot succesfully responses to the command, include the destination with the initial command (i.e. "!mapbot Wembley Stadium")
+3. Mapbot will immediately return the Google-map URL of the destination!
+
