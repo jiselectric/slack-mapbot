@@ -1,6 +1,9 @@
 # slack-mapbot
 
-### Description: a simple slackbot to provide Google-map URL
+![slack d590665f](https://user-images.githubusercontent.com/35610628/120922732-c0e61480-c705-11eb-8b67-3f5e3e79cdfe.jpg)
+
+### Description
+  - a simple slackbot to provide Google-map URL
 
 ### Objective
   - create a slackbot to easily share the corresponding Google-map URL of the destination
