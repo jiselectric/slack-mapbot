@@ -1,6 +1,8 @@
 # slack-mapbot
 
-![slack d590665f](https://user-images.githubusercontent.com/35610628/120922732-c0e61480-c705-11eb-8b67-3f5e3e79cdfe.jpg)
+
+
+<img width="816" alt="스크린샷 2021-06-06 20 29 31" src="https://user-images.githubusercontent.com/35610628/120922764-ebd06880-c705-11eb-8199-11d9076546d5.png">
 
 ### Description
   - a simple slackbot to provide Google-map URL
