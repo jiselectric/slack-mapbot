@@ -2,7 +2,7 @@
 
 
 
-<img width="816" alt="스크린샷 2021-06-06 20 29 31" src="https://user-images.githubusercontent.com/35610628/120922764-ebd06880-c705-11eb-8199-11d9076546d5.png">
+<img width="811" alt="스크린샷 2021-06-06 20 30 16" src="https://user-images.githubusercontent.com/35610628/120922778-073b7380-c706-11eb-95e2-69a0b32f78bf.png">
 
 ### Description
   - a simple slackbot to provide Google-map URL
